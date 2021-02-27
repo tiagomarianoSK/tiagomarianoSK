@@ -1,4 +1,4 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://miro.medium.com/max/700/0*A170StxK3jht1vmt.png">
 
 ### Olá! 👋
 Sou recém-formado em Sistemas de Informações em busca de oportunidades e colaboração em projetos relacionados à desenvolvimento mobile e aprendizado profundo.
