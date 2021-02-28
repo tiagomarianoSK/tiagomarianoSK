@@ -1,6 +1,14 @@
 # Olá, Seja bem vindo! 👋
 Sou recém-formado em Sistemas de Informações em busca de oportunidades e colaboração em projetos relacionados à desenvolvimento mobile e aprendizado profundo.
 
+Nascido na cidade de Aparecida do Taboado, localizada no estado de Mato Grosso do Sul, comecei me apaixonar pela tecnologia aos 15 anos, começando a desenvolver pequenos sites, para uso pessoal.
+
+Hoje em dia me dedico mais ao desenvolvimento mobile, com foco em grandes e pequenos projetos, trabalhando recentemente com Flutter, com foco mais em aplicativos híbridos.
+
+# CONTATO & MÍDIA SOCIAL 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/TiagoMariano_SK) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@marianobloggers)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tiago-mariano-7a66071b1/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/marianosouza_ms/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/tiago.mariano.silva.souza) [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://api.whatsapp.com/send?phone=5567996050484&text=*Ol%C3%A1*%20Tiago%20Mariano%20estou%20entrando%20em%20contato%20com%20voce%20diretamente%20pelo%20seu%20perfil%20do%20Git%20Hub%2C%20tudo%20bem%3F)
+
+
 # TECNOLOGIAS & FERRAMENTAS :wrench: 🤖
 Logo abaixo confira algumas tecnologias e alguns frameworks, que utilizo em meus projetos e alguns que já estudei, e que estão em meu repositório.
 
@@ -13,5 +21,5 @@ Logo abaixo confira algumas tecnologias e alguns frameworks, que utilizo em meus
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomarianoSK&layout=compact)](https://github.com/tiagomarianoSK/github-readme-stats)
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/TiagoMariano_SK) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@marianobloggers)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tiago-mariano-7a66071b1/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/marianosouza_ms/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/tiago.mariano.silva.souza) [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://api.whatsapp.com/send?phone=5567996050484&text=*Ol%C3%A1*%20Tiago%20Mariano%20estou%20entrando%20em%20contato%20com%20voce%20diretamente%20pelo%20seu%20perfil%20do%20Git%20Hub%2C%20tudo%20bem%3F)
+
 
